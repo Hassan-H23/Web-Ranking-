@@ -1,0 +1,9 @@
+﻿  CSCE2023 - Project.cpp
+C:\Users\Hassan\source\repos\CSCE2023 - Project\CSCE2023 - Project\CSCE2023 - Project.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+  WebPage.cpp
+C:\Users\Hassan\source\repos\CSCE2023 - Project\CSCE2023 - Project\WebPage.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 764 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSCE2023 - Project.vcxproj -> C:\Users\Hassan\source\repos\CSCE2023 - Project\Release\CSCE2023 - Project.exe

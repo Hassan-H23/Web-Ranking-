@@ -1,0 +1,4 @@
+www.A.com,1
+www.B.com,0
+www.C.com,0
+www.D.com,0

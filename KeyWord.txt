@@ -1,0 +1,4 @@
+www.A.com,Data,Structure,Data Structure
+www.B.com,Data,Algorithm
+www.C.com,Science,Algorithm
+www.D.com,Data Science,Science
